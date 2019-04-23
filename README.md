@@ -1,2 +1,2 @@
-# .com
-My personal website: vinnysenthil.com 
+# vinnysenthil.com
+My source code of my personal website
